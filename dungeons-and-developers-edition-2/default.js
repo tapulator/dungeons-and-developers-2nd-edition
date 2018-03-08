@@ -584,13 +584,13 @@
     },
     {
       "id": 24,
-      "title": "Server administration",
+      "title": "Server Administration",
       "maxPoints": 2,
       "rankDescriptions": [
-        "You are able to deploy your application to a new operating system.",
-        "You are familiar with HTTP server module compilation."
+        "You adjust your server's environment to your application's requirements.",
+        "You are familiar with your server's modules, e.g. to rewrite URLs."
       ],
-      "description": "There are several languages available to run on a web server. Some may require certain server configurations to operate smoothly.",
+      "description": "Even the smallest web app needs some infrastructure - unless you go serverless. Some web servers may require certain configuration to operate smoothly with the back-end language(s) of your choice.",
       "stats": [
         {
           "title": "Fortitude",
@@ -609,12 +609,13 @@
       "dependsOn": [
         24
       ],
-      "maxPoints": 2,
+      "maxPoints": 3,
       "rankDescriptions": [
-        "You minify public-faced files (JS, CSS) and activate data compression to save bandwidth and increase website speed.",
-        "You secure sensitive traffic via HTTPS using SSL certificates."
+        "You minify files and activate data compression to increase your website's performance.",
+        "You secure sensitive traffic via HTTPS using SSL certificates.",
+		"You master Continuous Deployment using virtualization tools like Docker."
       ],
-      "description": "Best practices for security and performance on the server while sharing your application with the world.",
+      "description": "The administration of your application's stage progression (development > testing > acceptance > production). Automation is used where suitable to go live with new iterations in short time.",
       "stats": [
         {
           "title": "Fortitude",
@@ -633,7 +634,7 @@
     },
     {
       "id": 26,
-      "title": "Web development mastery",
+      "title": "Web Development Mastery",
       "dependsOn": [
         4,
         5,
@@ -642,7 +643,7 @@
         22,
         25
       ],
-      "description": "Here the design, implementation and maintenance of a website come together. You are a true master of web development.",
+      "description": "You are a true master of web development combining skills in design, implementation and maintenance!",
       "stats": [
         {
           "title": "Charisma",
