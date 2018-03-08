@@ -1,1 +1,1 @@
-This is a rework of [352Media](https://www.352inc.com)'s [skilltree](https://github.com/352Media/skilltree) demo [Dungeons & Developers](http://www.dungeonsanddevelopers.com).
+This is a rework of [352 Media](https://www.352inc.com)'s [skilltree](https://github.com/352Media/skilltree) demo [Dungeons & Developers](http://www.dungeonsanddevelopers.com).
